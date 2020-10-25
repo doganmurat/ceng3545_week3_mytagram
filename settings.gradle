@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ceng3545_week3_mytagram"
